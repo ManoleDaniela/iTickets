@@ -1,0 +1,2 @@
+rootProject.name='ITtickets'
+include ':app'

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Cumpara_bilet"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+
+    >
+
+    <RelativeLayout
+        android:id="@+id/relative"
+        android:layout_width="wrap_content"
+        android:layout_height="99dp"
+        android:layout_marginTop="20sp"
+        android:background="@color/cardview_light_background"
+        android:clickable="true"
+        android:minWidth="400dp">
+
+
+        <TextView
+            android:id="@+id/tv_linie"
+            android:layout_width="290dp"
+            android:layout_height="30dp"
+            android:layout_marginStart="60sp"
+            android:layout_marginEnd="61dp"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_tip"
+            android:layout_width="290dp"
+            android:layout_height="30dp"
+            android:layout_below="@+id/tv_linie"
+            android:layout_marginStart="60sp" />
+
+        <TextView
+            android:id="@+id/tv_pret"
+            android:layout_width="290dp"
+            android:layout_height="30dp"
+            android:layout_below="@+id/tv_tip"
+            android:layout_marginStart="60sp" />
+
+    </RelativeLayout>
+
+
+
+</LinearLayout>

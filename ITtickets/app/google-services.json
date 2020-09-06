@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "757317777561",
+    "firebase_url": "https://itickets-215c3.firebaseio.com",
+    "project_id": "itickets-215c3",
+    "storage_bucket": "itickets-215c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757317777561:android:eba86662d28d0b22c92008",
+        "android_client_info": {
+          "package_name": "com.example.ittickets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757317777561-ovo7ek8hanet7bkl695pvivqboto385r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ittickets",
+            "certificate_hash": "41410e51a7de507ab3a6d00e2100d3cce9643690"
+          }
+        },
+        {
+          "client_id": "757317777561-tagcvoetp5paoldfuii61eau3gsehbl9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ittickets",
+            "certificate_hash": "cf5e6a1d3fe40d73f6b36d92f6ca0f4f44a95a8e"
+          }
+        },
+        {
+          "client_id": "757317777561-cc0o7m4cncb9pf830i6in4f6gmuhekoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCe2l3IRd6UhUKV7CFzqHWXYTogNP5DGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757317777561-cc0o7m4cncb9pf830i6in4f6gmuhekoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
